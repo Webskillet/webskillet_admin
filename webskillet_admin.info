@@ -1,0 +1,5 @@
+name = Webskillet Admin
+description = Makes Drupal Awesome for our Clients
+core = 7.x
+
+dependencies[] = media_browser_plus
