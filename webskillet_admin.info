@@ -1,5 +1,7 @@
 name = Webskillet Admin
 description = Makes Drupal Awesome for our Clients
 core = 7.x
+package = Webskillet Custom
+version = 7.x-1.0-alpha1
 
 dependencies[] = media_browser_plus
